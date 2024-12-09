@@ -1,0 +1,7 @@
+com\example\moviesapi\controller\MediaController$1.class
+com\example\moviesapi\service\MoviesService.class
+com\example\moviesapi\config\WebConfig.class
+com\example\moviesapi\MoviesApiApplication.class
+com\example\moviesapi\model\Movie.class
+com\example\moviesapi\model\MediaItem.class
+com\example\moviesapi\controller\MediaController.class
